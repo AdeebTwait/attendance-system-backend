@@ -1,1 +1,1 @@
-# attendance-system-backend
+# Fingerprint Attendance System (back-end)
